@@ -6,7 +6,7 @@
     "gastrodia <ipv6.elata@gmail.com>"
   ],
   "description": "let's use colladaloader as a bower package ..:)",
-  "main": "defaultworld.js",
+  "main": "ColladaLoader.js",
   "keywords": [
     "three.js","dae","colladaloader"
   ],
